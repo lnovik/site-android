@@ -8,6 +8,6 @@
 
 <h1 align= center>
 	<img 
-		src="https://media.giphy.com/media/drZk2UfRDCyci7Gkik/giphy.gif"
+		src="https://media.giphy.com/media/5OAoHNvtUZzAeK4P2H/giphy.gif"
 	/>
 </h1>
