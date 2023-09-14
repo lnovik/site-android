@@ -7,7 +7,7 @@
 </h4>
 
 <h1 align= center>
-
-​	<iframe src="https://giphy.com/embed/5OAoHNvtUZzAeK4P2H" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5OAoHNvtUZzAeK4P2H">via 
-        GIPHY</a></p>
+	<img 
+		src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dyY3VxNm1id3ZxM3d1Y2ZseWg3cGhkODRjYXdnNHUwZ3luNzJiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5OAoHNvtUZzAeK4P2H/giphy.gif"
+	/>
 </h1>
