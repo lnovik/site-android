@@ -9,6 +9,6 @@
 <h1 align= center>
 
 ​	<img 
-		src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dyY3VxNm1id3ZxM3d1Y2ZseWg3cGhkODRjYXdnNHUwZ3luNzJiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5OAoHNvtUZzAeK4P2H/giphy.gif"
+		src="https://media.giphy.com/media/geu9Q87BGH0a80QtAL/giphy.gif"
 	/>
 </h1>
